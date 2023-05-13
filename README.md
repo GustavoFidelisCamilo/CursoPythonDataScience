@@ -1,1 +1,3 @@
 # CursoPython
+
+Utilizando o jupyterNotebook.
